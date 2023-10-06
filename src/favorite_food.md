@@ -1,3 +1,3 @@
 # favorite food
 
-v1
+v2にしたよ
